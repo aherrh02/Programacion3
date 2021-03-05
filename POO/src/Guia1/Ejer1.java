@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Guia1;
 
 public class Ejer1 {
 
